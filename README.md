@@ -1,1 +1,1 @@
-🎵 playlist shuffle implemented in 5 lines of code (not optimized yet...) 🎵
+I know it's not optimized, i just did it cuz i was bored (:
